@@ -1,3 +1,5 @@
+package JavaProject1;
+
 import java.awt.*;
 import java.io.*;
 import java.net.*;
